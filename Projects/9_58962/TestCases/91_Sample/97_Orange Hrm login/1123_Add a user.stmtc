@@ -394,7 +394,7 @@
     "LocatorType": 7,
     "Locator": "//input[@id=\"txtPassword\"]",
     "PageId": 15,
-    "OuterHTML": null,
+    "OuterHTML": "",
     "Name": "Enter Password",
     "Created": null,
     "Modified": null
@@ -602,7 +602,7 @@
     "LocatorType": 7,
     "Locator": "//input[@id=\"btnAdd\"]",
     "PageId": 10,
-    "OuterHTML": null,
+    "OuterHTML": "",
     "Name": "Add button",
     "Created": null,
     "Modified": null
@@ -622,7 +622,7 @@
     "LocatorType": 7,
     "Locator": "//input[@id=\"systemUser_employeeName_empName\"]",
     "PageId": 10,
-    "OuterHTML": null,
+    "OuterHTML": "",
     "Name": "Typing EmpName",
     "Created": null,
     "Modified": null
@@ -633,7 +633,7 @@
     "LocatorType": 7,
     "Locator": "//input[@id=\"systemUser_userName\"]",
     "PageId": 10,
-    "OuterHTML": null,
+    "OuterHTML": "",
     "Name": "Typing username",
     "Created": null,
     "Modified": null
@@ -644,7 +644,7 @@
     "LocatorType": 7,
     "Locator": "//input[@id=\"systemUser_password\"]",
     "PageId": 10,
-    "OuterHTML": null,
+    "OuterHTML": "",
     "Name": "Typing password",
     "Created": null,
     "Modified": null
@@ -655,7 +655,7 @@
     "LocatorType": 7,
     "Locator": "//input[@id=\"systemUser_confirmPassword\"]",
     "PageId": 10,
-    "OuterHTML": null,
+    "OuterHTML": "",
     "Name": "Confirm Pass",
     "Created": null,
     "Modified": null
@@ -666,7 +666,7 @@
     "LocatorType": 8,
     "Locator": "input#btnSave",
     "PageId": 10,
-    "OuterHTML": null,
+    "OuterHTML": "",
     "Name": "Save button",
     "Created": null,
     "Modified": null
@@ -740,7 +740,7 @@
     "LocatorType": 8,
     "Locator": "a[id='welcome']",
     "PageId": 16,
-    "OuterHTML": null,
+    "OuterHTML": "",
     "Name": "dropdown",
     "Created": null,
     "Modified": null
@@ -760,7 +760,7 @@
     "LocatorType": 8,
     "Locator": "a[href='/index.php/auth/logout']",
     "PageId": 16,
-    "OuterHTML": null,
+    "OuterHTML": "",
     "Name": "click Logout",
     "Created": null,
     "Modified": null
