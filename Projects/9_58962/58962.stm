@@ -486,7 +486,7 @@
               "Modified": null
             },
             {
-              "TempId": 224,
+              "TempId": 627,
               "StepNumber": 3,
               "Description": "Click Login button",
               "LocatorTypeId": 7,
@@ -5051,7 +5051,7 @@
       "TempId": 424,
       "ProjectId": 9,
       "Name": "STM_GIT_LOCAL_PATH",
-      "Value": "C:\\Users\\Hexa28\\Documents\\two",
+      "Value": "C:\\Users\\Hexa27\\Documents\\three",
       "Created": null,
       "Modified": null
     },
